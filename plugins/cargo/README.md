@@ -1,3 +1,3 @@
 # cargo
 
-**Deprecated: use the [`rust`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rust) plugin instead.**
+**Deprecated: use the [`rust`](https://github.com/elliotxx/ohmyzsh/tree/master/plugins/rust) plugin instead.**

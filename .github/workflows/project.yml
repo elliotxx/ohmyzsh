@@ -13,7 +13,7 @@ jobs:
   add-to-project:
     name: Add to project
     runs-on: ubuntu-latest
-    if: github.repository == 'ohmyzsh/ohmyzsh'
+    if: github.repository == 'elliotxx/ohmyzsh'
     env:
       GITHUB_TOKEN: ${{ secrets.PROJECT_TOKEN }}
     steps:
